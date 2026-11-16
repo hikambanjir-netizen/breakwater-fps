@@ -1,7 +1,11 @@
 # Breakwater — a three.js tactical FPS
 
+[![make.fun](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/hikambanjir-netizen/breakwater-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/hikambanjir-netizen/breakwater-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02)
+
 A round-based tactical first-person shooter in the style Counter-Strike made
-famous, built for the make.fun `threejs-fps-01` bounty. Two teams fight over
+famous, built for the make.fun `threejs-fps-02` bounty. Two teams fight over
 a container port at dusk: the Tidebreakers attack, the Harbour Guard defend.
 
 - **4v4, single-player vs bots** — you plus three bot teammates against four
